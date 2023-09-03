@@ -1,6 +1,14 @@
 # Boat Race Game
 
-This is a simple implementation of the "Boat Race" game in Java. The game follows the rules outlined below and is designed with object-oriented principles for maintainability and reusability.
+This is a simple implementation of the **Boat Race** game in Java. The game follows the rules outlined below and is designed with object-oriented principles for maintainability and reusability.
+
+## Table of Contents
+
+- [Game Rules](#game-rules)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Getting Started](#getting-started)
+- [Intructions](#instructions)
 
 ## Game Rules
 
@@ -13,7 +21,15 @@ This is a simple implementation of the "Boat Race" game in Java. The game follow
 - **Game End:** The game ends when one player's boat reaches the end of the river.
 - **High Scores:** Players are asked for their names at the start of the game, and their scores are stored in 'TopScore.txt' if they make it to the top 5 scores.
 
+## Installation
 
+Simply ensure you have Python installed on your system.
+
+## Usage
+
+1. Download the all the Java Class file to your local machine and place under the same folder.
+2. Open an IDE that support Java language and simply run it.
+      
 ## Getting Started
 
 To play the game, simply run the `TestGame` class.
@@ -28,3 +44,7 @@ To play the game, simply run the `TestGame` class.
 - Top 5 scores are displayed at the start, and high scores are stored in 'TopScore.txt'.
 
 Have fun playing the Boat Race game!
+
+
+
+
